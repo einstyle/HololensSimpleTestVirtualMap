@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>test_MRVC_2</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\UnityProjects\Locale-Project\simple-tests\test_MRVC_2\my_builds\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\UnityProjects\Locale-Project\simple-tests\test_MRVC_2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity5_6\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
